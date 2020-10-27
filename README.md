@@ -22,6 +22,8 @@ external_call(foo, handle_as_hex_string);
 
 Nothing happens, except the game window is displayed which consists of just a horizontally scrolling image.
 
+Here is the official GameMaker documentation for [external_define](https://docs.yoyogames.com/source/dadiospice/002_reference/miscellaneous/external_define.html) and [external_call](https://docs.yoyogames.com/source/dadiospice/002_reference/miscellaneous/external_call.html).
+
 ## Preview
 
 ![GIF preview](preview.gif)
